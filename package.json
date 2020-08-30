@@ -1,0 +1,12 @@
+{
+  "name": "actions-ui",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "github-actions-parser": "^0.8.3",
+    "json2yaml": "^1.1.0",
+    "prettier": "^2.1.1"
+  }
+}
